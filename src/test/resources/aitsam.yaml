@@ -1,0 +1,9 @@
+---
+databases:
+- database: "distributions_1000"
+  dialect: "mysql"
+  namespace: "aitsam"
+  tables:
+  - table: "car_speed1"
+    columns:
+    - name: "speed"
